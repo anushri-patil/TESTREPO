@@ -1,7 +1,7 @@
 # TESTREPO
-<h1>Welcome to the GSoC 2023 Test Repository!</h1>
+<h1>Welcome to the CSoC 2023 Test Repository!</h1>
 
-<p>This repository has been created specifically for GSoC 2023 participants as a testing ground to familiarize themselves with the tools and workflows commonly used during the program.</p> 
+<p>This repository has been created specifically for CSoC 2023 participants as a testing ground to familiarize themselves with the tools and workflows commonly used during the program.</p> 
 
 <h2>Getting Started</h2>
 <p><b>1. Fork the repository:</b> Click on the "Fork" button at the top right corner of this repository's page. This will create a personal copy of the repository under your GitHub account.</p>
